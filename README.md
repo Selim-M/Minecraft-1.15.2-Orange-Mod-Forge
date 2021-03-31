@@ -20,6 +20,4 @@ Done!
 (If you are still having issues, try reinstalling the mod after installing java at https://www.java.com/en/ and after installing forge. 
 
 
-
-Currently in the works is the 1.14.4 version of this mod.
-and maybe the 1.16.5 version...?
+The 1.16.5 version of the mod is in progress.
